@@ -1,243 +1,203 @@
 [
   {
-    "Text": "book",
-    "Difficulty": 1
-  },
-  {
-    "Text": "tree",
-    "Difficulty": 1
-  },
-  {
-    "Text": "fish",
-    "Difficulty": 1
-  },
-  {
-    "Text": "bird",
-    "Difficulty": 1
-  },
-  {
-    "Text": "milk",
-    "Difficulty": 1
-  },
-  {
-    "Text": "star",
-    "Difficulty": 1
-  },
-  {
-    "Text": "moon",
-    "Difficulty": 1
-  },
-  {
-    "Text": "door",
-    "Difficulty": 1
-  },
-  {
-    "Text": "ball",
-    "Difficulty": 1
-  },
-  {
-    "Text": "desk",
-    "Difficulty": 1
-  },
-  {
-    "Text": "lamp",
-    "Difficulty": 1
-  },
-  {
-    "Text": "frog",
-    "Difficulty": 1
-  },
-  {
-    "Text": "hand",
-    "Difficulty": 1
-  },
-  {
-    "Text": "foot",
-    "Difficulty": 1
-  },
-  {
-    "Text": "blue",
-    "Difficulty": 1
-  },
-  {
-    "Text": "cold",
-    "Difficulty": 1
-  },
-  {
-    "Text": "fast",
-    "Difficulty": 1
-  },
-  {
-    "Text": "jump",
-    "Difficulty": 1
-  },
-  {
-    "Text": "play",
-    "Difficulty": 1
-  },
-  {
-    "Text": "rain",
-    "Difficulty": 1
-  },
-  {
-    "Text": "snow",
-    "Difficulty": 1
-  },
-  {
-    "Text": "wind",
-    "Difficulty": 1
-  },
-  {
-    "Text": "fire",
-    "Difficulty": 1
-  },
-  {
-    "Text": "park",
-    "Difficulty": 1
-  },
-  {
-    "Text": "song",
-    "Difficulty": 1
-  },
-  {
-    "Text": "ship",
-    "Difficulty": 1
-  },
-  {
-    "Text": "road",
-    "Difficulty": 1
-  },
-  {
-    "Text": "king",
-    "Difficulty": 1
-  },
-  {
-    "Text": "time",
-    "Difficulty": 1
-  },
-  {
-    "Text": "year",
-    "Difficulty": 1
-  },
-  {
     "Text": "apple",
-    "Difficulty": 2
-  },
-  {
-    "Text": "house",
-    "Difficulty": 2
-  },
-  {
-    "Text": "water",
-    "Difficulty": 2
-  },
-  {
-    "Text": "music",
-    "Difficulty": 2
+    "Difficulty": 1
   },
   {
     "Text": "beach",
-    "Difficulty": 2
-  },
-  {
-    "Text": "train",
-    "Difficulty": 2
-  },
-  {
-    "Text": "plant",
-    "Difficulty": 2
-  },
-  {
-    "Text": "bread",
-    "Difficulty": 2
+    "Difficulty": 1
   },
   {
     "Text": "chair",
-    "Difficulty": 2
-  },
-  {
-    "Text": "clock",
-    "Difficulty": 2
-  },
-  {
-    "Text": "cloud",
-    "Difficulty": 2
+    "Difficulty": 1
   },
   {
     "Text": "dance",
-    "Difficulty": 2
+    "Difficulty": 1
   },
   {
-    "Text": "earth",
-    "Difficulty": 2
+    "Text": "eagle",
+    "Difficulty": 1
   },
   {
     "Text": "flame",
-    "Difficulty": 2
+    "Difficulty": 1
   },
   {
-    "Text": "ghost",
-    "Difficulty": 2
+    "Text": "grape",
+    "Difficulty": 1
   },
   {
-    "Text": "honey",
-    "Difficulty": 2
+    "Text": "house",
+    "Difficulty": 1
   },
   {
     "Text": "juice",
-    "Difficulty": 2
+    "Difficulty": 1
   },
   {
     "Text": "knife",
-    "Difficulty": 2
+    "Difficulty": 1
   },
   {
     "Text": "lemon",
-    "Difficulty": 2
+    "Difficulty": 1
   },
   {
     "Text": "mouse",
-    "Difficulty": 2
+    "Difficulty": 1
   },
   {
-    "Text": "night",
-    "Difficulty": 2
+    "Text": "nurse",
+    "Difficulty": 1
   },
   {
     "Text": "ocean",
-    "Difficulty": 2
+    "Difficulty": 1
   },
   {
-    "Text": "paper",
-    "Difficulty": 2
+    "Text": "piano",
+    "Difficulty": 1
   },
   {
     "Text": "queen",
-    "Difficulty": 2
+    "Difficulty": 1
   },
   {
     "Text": "river",
-    "Difficulty": 2
+    "Difficulty": 1
   },
   {
     "Text": "smile",
-    "Difficulty": 2
+    "Difficulty": 1
   },
   {
-    "Text": "tiger",
-    "Difficulty": 2
+    "Text": "train",
+    "Difficulty": 1
+  },
+  {
+    "Text": "uncle",
+    "Difficulty": 1
   },
   {
     "Text": "voice",
-    "Difficulty": 2
+    "Difficulty": 1
   },
   {
-    "Text": "whale",
-    "Difficulty": 2
+    "Text": "water",
+    "Difficulty": 1
   },
   {
     "Text": "youth",
-    "Difficulty": 2
+    "Difficulty": 1
+  },
+  {
+    "Text": "zebra",
+    "Difficulty": 1
+  },
+  {
+    "Text": "bread",
+    "Difficulty": 1
+  },
+  {
+    "Text": "cloud",
+    "Difficulty": 1
+  },
+  {
+    "Text": "dream",
+    "Difficulty": 1
+  },
+  {
+    "Text": "earth",
+    "Difficulty": 1
+  },
+  {
+    "Text": "frost",
+    "Difficulty": 1
+  },
+  {
+    "Text": "green",
+    "Difficulty": 1
+  },
+  {
+    "Text": "heart",
+    "Difficulty": 1
+  },
+  {
+    "Text": "light",
+    "Difficulty": 1
+  },
+  {
+    "Text": "money",
+    "Difficulty": 1
+  },
+  {
+    "Text": "night",
+    "Difficulty": 1
+  },
+  {
+    "Text": "paper",
+    "Difficulty": 1
+  },
+  {
+    "Text": "quiet",
+    "Difficulty": 1
+  },
+  {
+    "Text": "radio",
+    "Difficulty": 1
+  },
+  {
+    "Text": "space",
+    "Difficulty": 1
+  },
+  {
+    "Text": "tiger",
+    "Difficulty": 1
+  },
+  {
+    "Text": "union",
+    "Difficulty": 1
+  },
+  {
+    "Text": "visit",
+    "Difficulty": 1
+  },
+  {
+    "Text": "whale",
+    "Difficulty": 1
+  },
+  {
+    "Text": "xenon",
+    "Difficulty": 1
+  },
+  {
+    "Text": "yacht",
+    "Difficulty": 1
+  },
+  {
+    "Text": "zones",
+    "Difficulty": 1
+  },
+  {
+    "Text": "plant",
+    "Difficulty": 1
+  },
+  {
+    "Text": "stone",
+    "Difficulty": 1
+  },
+  {
+    "Text": "table",
+    "Difficulty": 1
+  },
+  {
+    "Text": "world",
+    "Difficulty": 1
+  },
+  {
+    "Text": "brush",
+    "Difficulty": 1
   },
   {
     "Text": "bridge",
@@ -248,7 +208,11 @@
     "Difficulty": 2
   },
   {
-    "Text": "doctor",
+    "Text": "desert",
+    "Difficulty": 2
+  },
+  {
+    "Text": "energy",
     "Difficulty": 2
   },
   {
@@ -257,6 +221,10 @@
   },
   {
     "Text": "garden",
+    "Difficulty": 2
+  },
+  {
+    "Text": "hunger",
     "Difficulty": 2
   },
   {
@@ -272,6 +240,14 @@
     "Difficulty": 2
   },
   {
+    "Text": "ladder",
+    "Difficulty": 2
+  },
+  {
+    "Text": "magnet",
+    "Difficulty": 2
+  },
+  {
     "Text": "planet",
     "Difficulty": 2
   },
@@ -280,123 +256,515 @@
     "Difficulty": 2
   },
   {
+    "Text": "silver",
+    "Difficulty": 2
+  },
+  {
+    "Text": "temple",
+    "Difficulty": 2
+  },
+  {
+    "Text": "valley",
+    "Difficulty": 2
+  },
+  {
+    "Text": "winter",
+    "Difficulty": 2
+  },
+  {
+    "Text": "yellow",
+    "Difficulty": 2
+  },
+  {
+    "Text": "breeze",
+    "Difficulty": 2
+  },
+  {
+    "Text": "copper",
+    "Difficulty": 2
+  },
+  {
+    "Text": "danger",
+    "Difficulty": 2
+  },
+  {
+    "Text": "engine",
+    "Difficulty": 2
+  },
+  {
+    "Text": "falcon",
+    "Difficulty": 2
+  },
+  {
+    "Text": "galaxy",
+    "Difficulty": 2
+  },
+  {
+    "Text": "harbor",
+    "Difficulty": 2
+  },
+  {
+    "Text": "insect",
+    "Difficulty": 2
+  },
+  {
+    "Text": "jacket",
+    "Difficulty": 2
+  },
+  {
+    "Text": "kettle",
+    "Difficulty": 2
+  },
+  {
+    "Text": "lantern",
+    "Difficulty": 2
+  },
+  {
+    "Text": "marble",
+    "Difficulty": 2
+  },
+  {
+    "Text": "nectar",
+    "Difficulty": 2
+  },
+  {
+    "Text": "orchid",
+    "Difficulty": 2
+  },
+  {
+    "Text": "puzzle",
+    "Difficulty": 2
+  },
+  {
     "Text": "quartz",
-    "Difficulty": 3
+    "Difficulty": 2
   },
   {
-    "Text": "sphinx",
-    "Difficulty": 3
+    "Text": "ribbon",
+    "Difficulty": 2
   },
   {
-    "Text": "rhythm",
-    "Difficulty": 3
+    "Text": "shadow",
+    "Difficulty": 2
   },
   {
-    "Text": "crypt",
-    "Difficulty": 3
+    "Text": "tunnel",
+    "Difficulty": 2
   },
   {
-    "Text": "glyph",
-    "Difficulty": 3
+    "Text": "urchin",
+    "Difficulty": 2
   },
   {
-    "Text": "lymph",
-    "Difficulty": 3
+    "Text": "velvet",
+    "Difficulty": 2
   },
   {
-    "Text": "nymph",
-    "Difficulty": 3
+    "Text": "walnut",
+    "Difficulty": 2
   },
   {
-    "Text": "pygmy",
-    "Difficulty": 3
+    "Text": "zenith",
+    "Difficulty": 2
   },
   {
-    "Text": "waltz",
-    "Difficulty": 3
+    "Text": "anchor",
+    "Difficulty": 2
   },
   {
-    "Text": "zephyr",
-    "Difficulty": 3
+    "Text": "basket",
+    "Difficulty": 2
   },
   {
-    "Text": "abyss",
-    "Difficulty": 3
+    "Text": "canyon",
+    "Difficulty": 2
   },
   {
-    "Text": "blitz",
-    "Difficulty": 3
-  },
-  {
-    "Text": "dwarf",
-    "Difficulty": 3
-  },
-  {
-    "Text": "khaki",
-    "Difficulty": 3
-  },
-  {
-    "Text": "myopic",
-    "Difficulty": 3
-  },
-  {
-    "Text": "psyche",
-    "Difficulty": 3
-  },
-  {
-    "Text": "subway",
-    "Difficulty": 3
-  },
-  {
-    "Text": "vexing",
-    "Difficulty": 3
-  },
-  {
-    "Text": "whiskey",
-    "Difficulty": 3
-  },
-  {
-    "Text": "yacht",
-    "Difficulty": 3
-  },
-  {
-    "Text": "zombie",
-    "Difficulty": 3
-  },
-  {
-    "Text": "awkward",
-    "Difficulty": 3
-  },
-  {
-    "Text": "bizarre",
-    "Difficulty": 3
-  },
-  {
-    "Text": "caffeine",
-    "Difficulty": 3
-  },
-  {
-    "Text": "dilemma",
-    "Difficulty": 3
+    "Text": "dagger",
+    "Difficulty": 2
   },
   {
     "Text": "eclipse",
+    "Difficulty": 2
+  },
+  {
+    "Text": "fossil",
+    "Difficulty": 2
+  },
+  {
+    "Text": "glacier",
+    "Difficulty": 2
+  },
+  {
+    "Text": "ambiguous",
+    "Difficulty": 2
+  },
+  {
+    "Text": "brilliant",
+    "Difficulty": 2
+  },
+  {
+    "Text": "curiosity",
+    "Difficulty": 2
+  },
+  {
+    "Text": "delicious",
+    "Difficulty": 2
+  },
+  {
+    "Text": "enthusiasm",
+    "Difficulty": 2
+  },
+  {
+    "Text": "generosity",
+    "Difficulty": 2
+  },
+  {
+    "Text": "harmonious",
+    "Difficulty": 2
+  },
+  {
+    "Text": "journalism",
+    "Difficulty": 2
+  },
+  {
+    "Text": "knowledge",
+    "Difficulty": 2
+  },
+  {
+    "Text": "loneliness",
+    "Difficulty": 2
+  },
+  {
+    "Text": "nostalgia",
+    "Difficulty": 2
+  },
+  {
+    "Text": "sincerity",
+    "Difficulty": 2
+  },
+  {
+    "Text": "tranquility",
+    "Difficulty": 2
+  },
+  {
+    "Text": "wonderful",
+    "Difficulty": 2
+  },
+  {
+    "Text": "youthful",
+    "Difficulty": 2
+  },
+  {
+    "Text": "zealous",
+    "Difficulty": 2
+  },
+  {
+    "Text": "adventure",
     "Difficulty": 3
   },
   {
-    "Text": "mnemonic",
+    "Text": "butterfly",
     "Difficulty": 3
   },
   {
-    "Text": "syzygy",
+    "Text": "cathedral",
     "Difficulty": 3
   },
   {
-    "Text": "paradox",
+    "Text": "dinosaur",
+    "Difficulty": 3
+  },
+  {
+    "Text": "elephant",
+    "Difficulty": 3
+  },
+  {
+    "Text": "fireworks",
+    "Difficulty": 3
+  },
+  {
+    "Text": "gorilla",
+    "Difficulty": 3
+  },
+  {
+    "Text": "helicopter",
+    "Difficulty": 3
+  },
+  {
+    "Text": "instrument",
+    "Difficulty": 3
+  },
+  {
+    "Text": "kangaroo",
     "Difficulty": 3
   },
   {
     "Text": "labyrinth",
+    "Difficulty": 3
+  },
+  {
+    "Text": "mountain",
+    "Difficulty": 3
+  },
+  {
+    "Text": "nightmare",
+    "Difficulty": 3
+  },
+  {
+    "Text": "octopus",
+    "Difficulty": 3
+  },
+  {
+    "Text": "pyramid",
+    "Difficulty": 3
+  },
+  {
+    "Text": "quicksand",
+    "Difficulty": 3
+  },
+  {
+    "Text": "refrigerator",
+    "Difficulty": 3
+  },
+  {
+    "Text": "telescope",
+    "Difficulty": 3
+  },
+  {
+    "Text": "umbrella",
+    "Difficulty": 3
+  },
+  {
+    "Text": "volcano",
+    "Difficulty": 3
+  },
+  {
+    "Text": "waterfall",
+    "Difficulty": 3
+  },
+  {
+    "Text": "xylophone",
+    "Difficulty": 3
+  },
+  {
+    "Text": "yardstick",
+    "Difficulty": 3
+  },
+  {
+    "Text": "zoology",
+    "Difficulty": 3
+  },
+  {
+    "Text": "astronaut",
+    "Difficulty": 3
+  },
+  {
+    "Text": "blacksmith",
+    "Difficulty": 3
+  },
+  {
+    "Text": "chameleon",
+    "Difficulty": 3
+  },
+  {
+    "Text": "dandelion",
+    "Difficulty": 3
+  },
+  {
+    "Text": "emerald",
+    "Difficulty": 3
+  },
+  {
+    "Text": "flamingo",
+    "Difficulty": 3
+  },
+  {
+    "Text": "gravitation",
+    "Difficulty": 3
+  },
+  {
+    "Text": "hurricane",
+    "Difficulty": 3
+  },
+  {
+    "Text": "iceberg",
+    "Difficulty": 3
+  },
+  {
+    "Text": "jellyfish",
+    "Difficulty": 3
+  },
+  {
+    "Text": "kaleidoscope",
+    "Difficulty": 3
+  },
+  {
+    "Text": "lighthouse",
+    "Difficulty": 3
+  },
+  {
+    "Text": "meteorite",
+    "Difficulty": 3
+  },
+  {
+    "Text": "navigator",
+    "Difficulty": 3
+  },
+  {
+    "Text": "observatory",
+    "Difficulty": 3
+  },
+  {
+    "Text": "porcupine",
+    "Difficulty": 3
+  },
+  {
+    "Text": "quarantine",
+    "Difficulty": 3
+  },
+  {
+    "Text": "rattlesnake",
+    "Difficulty": 3
+  },
+  {
+    "Text": "salamander",
+    "Difficulty": 3
+  },
+  {
+    "Text": "tarantula",
+    "Difficulty": 3
+  },
+  {
+    "Text": "ultraviolet",
+    "Difficulty": 3
+  },
+  {
+    "Text": "veterarian",
+    "Difficulty": 3
+  },
+  {
+    "Text": "wilderness",
+    "Difficulty": 3
+  },
+  {
+    "Text": "yellowjacket",
+    "Difficulty": 3
+  },
+  {
+    "Text": "zoological",
+    "Difficulty": 3
+  },
+  {
+    "Text": "archaeology",
+    "Difficulty": 3
+  },
+  {
+    "Text": "biodiversity",
+    "Difficulty": 3
+  },
+  {
+    "Text": "constellation",
+    "Difficulty": 3
+  },
+  {
+    "Text": "documentary",
+    "Difficulty": 3
+  },
+  {
+    "Text": "electricity",
+    "Difficulty": 3
+  },
+  {
+    "Text": "geographical",
+    "Difficulty": 3
+  },
+  {
+    "Text": "hologram",
+    "Difficulty": 3
+  },
+  {
+    "Text": "illumination",
+    "Difficulty": 3
+  },
+  {
+    "Text": "jurisprudence",
+    "Difficulty": 3
+  },
+  {
+    "Text": "kleptomania",
+    "Difficulty": 3
+  },
+  {
+    "Text": "locomotive",
+    "Difficulty": 3
+  },
+  {
+    "Text": "microscope",
+    "Difficulty": 3
+  },
+  {
+    "Text": "neuroscience",
+    "Difficulty": 3
+  },
+  {
+    "Text": "oceanography",
+    "Difficulty": 3
+  },
+  {
+    "Text": "photosynthesis",
+    "Difficulty": 3
+  },
+  {
+    "Text": "quadrilateral",
+    "Difficulty": 3
+  },
+  {
+    "Text": "renaissance",
+    "Difficulty": 3
+  },
+  {
+    "Text": "stratosphere",
+    "Difficulty": 3
+  },
+  {
+    "Text": "thermodynamics",
+    "Difficulty": 3
+  },
+  {
+    "Text": "understanding",
+    "Difficulty": 3
+  },
+  {
+    "Text": "vulnerability",
+    "Difficulty": 3
+  },
+  {
+    "Text": "xenophobia",
+    "Difficulty": 3
+  },
+  {
+    "Text": "youthfulness",
+    "Difficulty": 3
+  },
+  {
+    "Text": "fascinating",
+    "Difficulty": 3
+  },
+  {
+    "Text": "imagination",
+    "Difficulty": 3
+  },
+  {
+    "Text": "melancholy",
+    "Difficulty": 3
+  },
+  {
+    "Text": "opportunity",
+    "Difficulty": 3
+  },
+  {
+    "Text": "perseverance",
     "Difficulty": 3
   }
 ]

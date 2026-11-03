@@ -49,10 +49,9 @@ class Program
             List<char> guessedLetters = new List<char>();
             List<char> wrongLetters = new List<char>();
 
-            Console.WriteLine("------------");
-
             while (!hasGuessed & mistakes < 5)
             {
+                Console.WriteLine("*************");
                 Console.WriteLine($"Mistakes: {mistakes}");
                 foreach(char l in chosenWord)
                 {
@@ -67,7 +66,8 @@ class Program
                 }
                 else
                 {
-                    Console.WriteLine($"The misterious word does not contain {letter}");
+                    Console.WriteLine($"The secret word does not contain {letter}");
+                    wrongLetters.Add(letter);
                     mistakes++;
                 }
                 hasGuessed = chosenWord.All(l => guessedLetters.Contains(l));
@@ -106,7 +106,7 @@ class Program
         Console.WriteLine();
         Console.Write("Choose a letter: ");
         input = Console.ReadLine().ToLower();
-        while(!char.TryParse(input, out letter) || string.IsNullOrWhiteSpace(input) || int.TryParse(input, out int i))
+        while(!char.TryParse(input, out letter) || string.IsNullOrWhiteSpace(input) || int.TryParse(input, out int i) || guessedLetters.Contains(letter) || wrongLetters.Contains(letter))
         {
             if(guessedLetters.Contains(letter) || wrongLetters.Contains(letter))
             {
