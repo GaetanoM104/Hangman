@@ -79,7 +79,8 @@ class Program
             guessedLetters = null;
             wrongLetters = null;
             mistakes = 0;
-            Console.WriteLine("-------------");
+            hasGuessed = false;
+            Console.WriteLine("****************");
         } while (true);
     }
 
